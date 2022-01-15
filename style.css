@@ -7,6 +7,10 @@ body{
     margin: 20px 200px;
     font-family: 'Poppins', sans-serif;
 }
+main{
+    background-color: white;
+    padding: 80px;
+}
 h1{
     color: rgb(66, 18, 143);
     font-weight: 900;
@@ -64,3 +68,43 @@ h2{
 /*--------------------------------
  piture of camera part style end 
  --------------------------------*/
+
+ /*----------------- 
+ website logo style 
+ -----------------*/
+
+ /* ---------
+ shop start
+ ------------ */
+.pop{
+    padding-left: 400px;
+    padding-top: 100px;
+    padding-bottom: 30px;
+ }
+ nav{
+     display: grid;
+     grid-template-columns: repeat(3,1fr);
+ }
+.shop{
+    width: 300px;
+    height: 300px;
+}
+.tripod{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+.dollar{
+    font-size: 20px;
+    font-weight: 400;
+}
+.fa-star.filled{
+    color: chocolate;
+}
+.fa-star.empty{
+    color: rgb(226, 180, 164);
+}
+small{
+    font-size: 18px;
+}
+
