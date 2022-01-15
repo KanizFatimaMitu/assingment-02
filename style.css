@@ -107,4 +107,80 @@ h2{
 small{
     font-size: 18px;
 }
+/*------ 
+shop end  
+--------*/
 
+
+
+/*------- 
+see more 
+-------- */
+.see-more{
+    color: whitesmoke;
+    text-decoration: none;
+    background-color: rgb(66, 18, 143);
+    padding: 10px;
+    border-radius: 5px;
+    position: absolute;
+    margin-left: 800px;
+}
+.arrow{
+    padding-top: 50px;
+}
+/*-------------- 
+see more end 
+---------------- */
+
+/*-----------------
+ feature part style 
+---------------- */
+.feature{
+    display: flex;
+    padding-top: 120px;
+}
+.feature img{
+    padding-right: 40px;
+}
+.feature a{
+    color: whitesmoke;
+    text-decoration: none;
+    background-color: rgb(66, 18, 143);
+    padding: 10px;
+    border-radius: 5px;
+}
+/*-------------------
+ feature part end 
+------------------- */
+
+/* -------------
+footer style start 
+--------------- */
+footer{
+    background-color:rgb(66, 18, 143) ;
+    color: whitesmoke;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+h4{
+    padding-left: 500px;
+}
+footer p i{
+    color: whitesmoke;
+}
+footer div i{
+    padding: 5px;
+    color: whitesmoke;
+}
+.copy{
+    padding-left: 430px;
+}
+.right{
+    padding-left: 500px;
+}
+footer div{
+    padding-left: 500px;
+}
+/*---------------
+ footer style end
+ -----------------  */
