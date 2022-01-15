@@ -1,0 +1,65 @@
+/*-----------------
+ navigation style 
+ -----------------*/
+body{
+    background-color: rgb(236, 227, 236);
+    color: rgb(20, 18, 22);
+    margin: 20px 200px;
+    font-family: 'Lobster', cursive;
+}
+.influence{
+    color: rgb(66, 18, 143);
+    font-weight: 900;
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-between;
+}
+.space{
+    padding: 20px;
+}
+.font{
+    text-decoration: none;
+    color: black;
+    padding-left: 5px;
+}
+i{
+    color: darkslateblue;
+    padding-left: 5px;
+}
+
+/*----------------------
+ navigation style end 
+ ----------------------*/
+
+/*---------------------------
+ piture of camera part start 
+ ---------------------------*/
+h1{
+    font-weight: 900;
+}
+.intro{
+    display: flex;
+    justify-content: space-evenly;
+}
+.pre-book,.fa-arrow-circle-right{
+    color: whitesmoke;
+    text-decoration: none;
+    background-color: rgb(66, 18, 143);
+    padding: 10px;
+    border-radius: 5px;
+}
+.text{
+    padding-right: 100px;
+    padding-top: 120px;
+}
+.dslr{
+
+    width: 350px;
+    height: 300px;
+    padding: 100px;
+}
+/*--------------------------------
+ piture of camera part style end 
+ --------------------------------*/
